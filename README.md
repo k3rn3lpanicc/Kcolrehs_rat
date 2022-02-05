@@ -1,7 +1,7 @@
 # Kcolrehs_rat
 A Simple C# Rat written with k3rn3lpanictools dlls
 
-'''C#
+```C#
 >select [number] : it will select the corresponding client
 >sessions : it will list all clients connected to this server
 >status : it will print sessions , host name and systeminfo command output
@@ -16,7 +16,7 @@ A Simple C# Rat written with k3rn3lpanictools dlls
 >lsbrowsers : it will list all the browsers that client have and print's each browsers exact path
 >put-filename : it will upload a file from server machine and the client will download it
 **** Any thing that is not in list above will be executed as this command : exec-thethinghere ****
-'''
+```
 
 
 ![1](https://github.com/k3rn3lpanicc/Kcolrehs_rat/blob/main/view.gif?raw=true)
