@@ -1,0 +1,14 @@
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\bin\x86\Debug\Kcolrehs_Control.exe.config
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\bin\x86\Debug\Kcolrehs_Control.exe
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\bin\x86\Debug\Kcolrehs_Control.pdb
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\bin\x86\Debug\k3rn3lpanicTools.dll
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\bin\x86\Debug\ChilkatDotNet46.dll
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\bin\x86\Debug\k3rn3lpanicTools.pdb
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\obj\x86\Debug\Kcolrehs_Control.csproj.AssemblyReference.cache
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\obj\x86\Debug\Kcolrehs_Control.Form1.resources
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\obj\x86\Debug\Kcolrehs_Control.Properties.Resources.resources
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\obj\x86\Debug\Kcolrehs_Control.csproj.GenerateResource.cache
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\obj\x86\Debug\Kcolrehs_Control.csproj.CoreCompileInputs.cache
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\obj\x86\Debug\Kcolrehs_Control.csproj.CopyComplete
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\obj\x86\Debug\Kcolrehs_Control.exe
+C:\Users\Matin\Desktop\Kcolrehs_Control\Kcolrehs_Control\obj\x86\Debug\Kcolrehs_Control.pdb
