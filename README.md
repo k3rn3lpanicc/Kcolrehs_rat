@@ -1,7 +1,7 @@
 # Kcolrehs_rat
 A Simple C# Rat written with k3rn3lpanictools dlls
 
-```C#
+```
 >select [number] : it will select the corresponding client
 >sessions : it will list all clients connected to this server
 >status : it will print sessions , host name and systeminfo command output
