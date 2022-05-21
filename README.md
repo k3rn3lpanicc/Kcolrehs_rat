@@ -1,5 +1,7 @@
 # Kcolrehs_rat
 A Simple C# Rat written with k3rn3lpanictools dlls
+It uses a tcp connection from server to client
+Some commands :
 
 ```
 >select [number] : it will select the corresponding client
